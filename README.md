@@ -1,4 +1,4 @@
-# integration-testing
+# testada-example
 
 This repository is just an example how to do integration testing in Golang with a real Database. An example usage from [github.com/golangid/testada](https://github.com/golangid/testada) package.
 
